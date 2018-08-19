@@ -37,16 +37,16 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-	<distributionManagement>
+<distributionManagement>
     <repository>
       <id>calculator-releases</id>
       <name>calculator-releases</name>
-      <url>http://nexus:8081/repository/calculator-releases/</url>
+      <url>http://192.168.32.5:8081/repository/calculator-releases/</url>
     </repository>
     <snapshotRepository>
       <id>calculator-snapshot</id>
       <name>calculator-snapshot</name>
-      <url>http://nexus:8081/repository/calculator-snapshot/</url>
+      <url>http://192.168.32.5:8081/repository/calculator-snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
