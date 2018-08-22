@@ -37,7 +37,7 @@
 			</plugins>
 		</pluginManagement>
 	</build>
-<distributionManagement>
+<!-- <distributionManagement>
     <repository>
       <id>calculator-releases</id>
       <name>calculator-releases</name>
@@ -48,5 +48,5 @@
       <name>calculator-snapshot</name>
       <url>http://192.168.32.5:8081/repository/calculator-snapshot/</url>
     </snapshotRepository>
-</distributionManagement>
+</distributionManagement> --> 
 </project>
